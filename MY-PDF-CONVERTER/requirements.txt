@@ -1,0 +1,6 @@
+Flask==3.0.3
+pdf2docx==0.5.8
+img2pdf==0.5.1
+PyMuPDF==1.23.26
+gunicorn==22.0.0
+Pillow==10.2.0
